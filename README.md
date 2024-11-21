@@ -1,5 +1,12 @@
 ## Latihan Praktikum
 
+## Data Diri
+Nama : Alya Febrianti 
+
+Kelas : TI.24.A1
+
+NIM : 312410692
+
 ## Hasil Input
 ```python
 def tampilkan_menu():
