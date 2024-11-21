@@ -179,10 +179,10 @@ hapus_data(daftar_nilai): Fungsi ini menghapus data mahasiswa yang dipilih oleh 
 cari_data(daftar_nilai): Fungsi ini mencari data mahasiswa berdasarkan NIM. Jika data ditemukan, maka data tersebut akan ditampilkan.
 
 ## Cara Kerja Program
-Program dimulai dengan membuat list kosong daftar_nilai untuk menyimpan data mahasiswa.
-Program kemudian masuk ke dalam perulangan while True.
-Di dalam perulangan, program akan:
-Menampilkan menu pilihan.
-Meminta pengguna untuk memilih salah satu opsi.
-Memanggil fungsi yang sesuai dengan pilihan pengguna.
-Perulangan akan terus berulang sampai pengguna memilih opsi untuk keluar.
+1. Program dimulai dengan membuat list kosong daftar_nilai untuk menyimpan data mahasiswa.
+2. Program kemudian masuk ke dalam perulangan while True.
+3. Di dalam perulangan, program akan:
+   - Menampilkan menu pilihan.
+   - Meminta pengguna untuk memilih salah satu opsi.
+   - Memanggil fungsi yang sesuai dengan pilihan pengguna.
+4. Perulangan akan terus berulang sampai pengguna memilih opsi untuk keluar.
