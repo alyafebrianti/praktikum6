@@ -123,69 +123,30 @@ while True:
 
 ## Hasil Output
 ````markdown
-[(L)ihat, (T)ambah, (U)bah, (H)apus, (C)ari, (K)eluar]:
-L
+[(L)ihat (T)ambah (U)bah (H)apus (C)ari (K)eluar] : l
 Daftar Nilai
-==================================================================
-| NO |    NIM    |     NAMA      | TUGAS  | UTS  | UAS  | AKHIR  |
-==================================================================
-|                       TIDAK ADA DATA                           |
-==================================================================
-
-[(L)ihat, (T)ambah, (U)bah, (H)apus, (C)ari, (K)eluar]:
-T
-Tambahkan Data
-NIM: 312410692
-Nama: ALYA FEBRIANTI
+=================================================================================
+  No |      Nama     |   NIM    | Nilai Tugas |Nilai UTS |Nilai UAS |Nilai Akhir|
+=================================================================================
+                               TIDAK ADA DATA
+=================================================================================
+[(L)ihat (T)ambah (U)bah (H)apus (C)ari (K)eluar] : t
+Tambah Data
+NIM:  312410692
+Nama: Alya Febrianti
 Nilai Tugas: 100
 Nilai UTS: 99
 Nilai UAS: 100
-Data berhasil ditambahkan.
-
-[(L)ihat, (T)ambah, (U)bah, (H)apus, (C)ari, (K)eluar]:
-L
+Data berhasil ditambahkan!
+[(L)ihat (T)ambah (U)bah (H)apus (C)ari (K)eluar] : l
 Daftar Nilai
-==================================================================
-| NO |    NIM    |     NAMA      | TUGAS  | UTS  | UAS  | AKHIR  |
-==================================================================
-| 1  | 312410692 | ALYA FEBRIANTI | 100.0  | 99.0 | 100.0 | 99.67  |
-==================================================================
-
-[(L)ihat, (T)ambah, (U)bah, (H)apus, (C)ari, (K)eluar]:
-T
-Tambahkan Data
-NIM: 3124
-Nama: SHEILA
-Nilai Tugas: 98
-Nilai UTS: 98
-Nilai UAS: 98
-Data berhasil ditambahkan.
-
-[(L)ihat, (T)ambah, (U)bah, (H)apus, (C)ari, (K)eluar]:
-L
-Daftar Nilai
-==================================================================
-| NO |    NIM    |     NAMA      | TUGAS  | UTS  | UAS  | AKHIR  |
-==================================================================
-| 1  | 312410692 | ALYA FEBRIANTI | 100.0  | 99.0 | 100.0 | 99.67  |
-| 2  | 3124     | SHEILA        | 98.0   | 98.0 | 98.0 | 98.00  |
-==================================================================
-
-[(L)ihat, (T)ambah, (U)bah, (H)apus, (C)ari, (K)eluar]:
-U
-Daftar Nilai
-==================================================================
-| NO |    NIM    |     NAMA      | TUGAS  | UTS  | UAS  | AKHIR  |
-==================================================================
-| 1  | 312410692 | ALYA FEBRIANTI | 100.0  | 99.0 | 100.0 | 99.67  |
-| 2  | 3124     | SHEILA        | 98.0   | 98.0 | 98.0 | 98.00  |
-==================================================================
-Pilih nomor data yang ingin diubah: 3124
-Nomor tidak valid.
-
-[(L)ihat, (T)ambah, (U)bah, (H)apus, (C)ari, (K)eluar]:
-K
-Keluar dari program.
+=================================================================================
+  No |      Nama     |   NIM    | Nilai Tugas |Nilai UTS |Nilai UAS |Nilai Akhir|
+=================================================================================
+  1  |Alya Febrianti | 312410692|    100.0    |   99.0   |  100.0   |  99.65    |
+=================================================================================
+[(L)ihat (T)ambah (U)bah (H)apus (C)ari (K)eluar] : k
+Program selesai.
 ````
 ## flowchart
 ![flowchart](flowchart.png)
